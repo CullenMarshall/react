@@ -1,6 +1,17 @@
-.student{
+.welcome-message{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
     padding:1rem;
     border: .2rem solid cornflowerblue;
+    width:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-promt{
+    font-family: 'Times New Roman', Times, serif;
+    border: .5rem dotted red;
+    width: 20%;
+    display: flex;
+    justify-content: center;
 }
